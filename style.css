@@ -1,0 +1,53 @@
+h1 {
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+    gap: 0px;
+}
+
+img {
+    width: 25%;
+}
+p{
+    text-align: center;
+}
+.head1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(165, 94, 106);
+}
+.head2{
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+span{
+    color:rgb(183, 23, 23)
+}
+#btn{
+    display: block;
+    margin:auto;
+    padding:15px 18px;
+    background-color:blanchedalmond;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.choice{
+    display:flex;
+    justify-content: space-around;
+}
+
+#user,#comp{
+    padding:15px 18px;
+    background-color:blanchedalmond;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+.result{
+    text-align: center;
+    font-size:1.2rem;
+}
